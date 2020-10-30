@@ -52,6 +52,8 @@ public class Home_act extends AppCompatActivity {
 
         clientes.add("Axel");
         clientes.add("Roxana");
+        clientes.add("Betzabe");
+        clientes.add("Matias");
 
 
         prestamos.add("Credito Hipotecario");
